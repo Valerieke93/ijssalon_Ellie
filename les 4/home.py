@@ -1,3 +1,2 @@
-print
-print(¨van deze regel krijg ik later spijt¨)
-      
+print ("hallo wereld")
+print ("welkom in onze ijssalon")    
