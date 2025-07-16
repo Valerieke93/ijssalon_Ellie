@@ -1,3 +1,1 @@
-print
-print(¨van deze regel krijg ik later spijt¨)
-      
+print("van deze regel krijg ik later spijt")
